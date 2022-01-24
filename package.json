@@ -1,0 +1,29 @@
+{
+  "name": "sms_rest_api",
+  "version": "1.0.0",
+  "description": "SMS rest api practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikemrg17/SMS_REST_API.git"
+  },
+  "keywords": [
+    "SMS",
+    "REST",
+    "API"
+  ],
+  "author": "Migue <miguelangelmurga@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikemrg17/SMS_REST_API/issues"
+  },
+  "homepage": "https://github.com/mikemrg17/SMS_REST_API#readme",
+  "dependencies": {
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2",
+    "twilio": "^3.73.0"
+  }
+}
